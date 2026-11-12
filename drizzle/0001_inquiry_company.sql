@@ -1,0 +1,1 @@
+ALTER TABLE inquiries ADD COLUMN company TEXT NOT NULL DEFAULT '';

@@ -1,0 +1,2219 @@
+{
+  "en": {
+    "brand": "Arasya Plastic Engineering",
+    "tagline": "ENGINEERING PLASTIC SOLUTIONS",
+    "headline": "Start New Projects with Lasting Protection",
+    "subtitle": "Complete Geomembrane & Waterproofing Solutions from Manufacturing to Long-Term Support.",
+    "intro": "",
+    "hero": "/media/hero.jpg",
+    "logo": "/media/logo.jpg",
+    "green": "#063328",
+    "orange": "#f58220",
+    "stats": [],
+    "features": [
+      "High Durability",
+      "Custom Solutions",
+      "Complete Support"
+    ],
+    "video": "",
+    "contactLinks": [
+      {
+        "title": "+20 100 513 9173",
+        "href": "tel:+201005139173"
+      },
+      {
+        "title": "info@arasyaplastic.com",
+        "href": "mailto:info@arasyaplastic.com"
+      },
+      {
+        "title": "Cairo, Egypt",
+        "href": "https://www.google.com/maps/search/?api=1&query=15%20Mostafa%20Refaat%20Street%2C%20Square%201138%2C%20Heliopolis%2C%20Cairo%2C%20Egypt"
+      }
+    ],
+    "sections": [
+      {
+        "id": "services",
+        "label": "OUR SERVICES",
+        "title": "Complete Engineering Solutions",
+        "background": "",
+        "items": [
+          {
+            "title": "Technical Support & Consultation",
+            "description": "Technical guidance on selecting materials and lining systems for the application and site conditions.",
+            "detail": "Material selection • Application guidance • Site conditions",
+            "image": "/media/serv-card-1.jpg",
+            "href": "/services",
+            "pageImage": "/media/serv-card-1.jpg"
+          },
+          {
+            "title": "Geomembrane Supply & Installation",
+            "description": "Supply and on-site installation of geomembranes for industrial, agricultural, environmental and infrastructure applications.",
+            "detail": "HDPE, LDPE, PVC and TPO • On-site installation • Welding and seaming",
+            "image": "/media/serv-card-2.jpg",
+            "href": "/services",
+            "pageImage": "/media/serv-card-2.jpg"
+          },
+          {
+            "title": "Warranty & After-Sales Support",
+            "description": "Project documentation, warranty management, maintenance and continuing technical support.",
+            "detail": "Project documentation • Warranty support • Maintenance",
+            "image": "/media/serv-card-3.jpg",
+            "href": "/services",
+            "pageImage": "/media/serv-card-3.jpg"
+          }
+        ],
+        "navigation": "Services",
+        "intro": "From design and supply to installation and long-term maintenance."
+      },
+      {
+        "id": "products",
+        "label": "OUR PRODUCTS",
+        "title": "High-Performance Plastic Solutions",
+        "background": "",
+        "items": [
+          {
+            "image": "/media/catalog-1.jpg",
+            "title": "HDPE Geomembrane",
+            "description": "500–5000 µm",
+            "href": "/products/hdpe-geomembrane",
+            "pageImage": "/media/catalog-1.jpg",
+            "catalogOrder": "1",
+            "slug": "hdpe-geomembrane",
+            "summary": "High-density polyethylene liner for water containment, environmental protection and infrastructure.",
+            "source": "https://arasyaplastic.com/portfolio/chair-design/",
+            "detailImage": "/media/company-hdpe.jpg",
+            "caption": "4–7 m",
+            "compactImage": "/media/home-product-1.jpg",
+            "group": "membranes",
+            "specs": [
+              {
+                "title": "Thickness",
+                "description": "500–5000 µm"
+              },
+              {
+                "title": "Roll width",
+                "description": "4–7 m"
+              },
+              {
+                "title": "Material",
+                "description": "HDPE"
+              },
+              {
+                "title": "Chemical resistance",
+                "description": "High"
+              },
+              {
+                "title": "Expected service life",
+                "description": "Up to 25 years, depending on project conditions"
+              },
+              {
+                "title": "Exposure",
+                "description": "UV and weather resistant"
+              }
+            ]
+          },
+          {
+            "image": "/media/catalog-5.jpg",
+            "title": "Geotextile",
+            "description": "Separation, filtration and drainage",
+            "href": "/products/geotextile",
+            "pageImage": "/media/catalog-5.jpg",
+            "catalogOrder": "2",
+            "slug": "geotextile",
+            "summary": "Fabric for separation, filtration, drainage and protection of lining systems.",
+            "source": "https://arasyaplastic.com/portfolio/project-stamp/",
+            "detailImage": "/media/company-geotextile.jpg",
+            "caption": "Separation, filtration and drainage",
+            "compactImage": "/media/home-product-2.jpg",
+            "group": "geotextiles",
+            "specs": [
+              {
+                "title": "Mass per unit area",
+                "description": "50–1000 g/m²"
+              }
+            ]
+          },
+          {
+            "title": "LDPE Geomembrane",
+            "description": "Geomembranes",
+            "image": "/media/prod-cat-5.jpg",
+            "href": "",
+            "pageImage": "/media/prod-cat-5.jpg",
+            "slug": "ldpe-geomembrane",
+            "summary": "Low-density polyethylene liner for water containment and waterproofing.",
+            "source": "https://arasyaplastic.com/portfolio/infinity-brand/",
+            "group": "membranes",
+            "specs": [
+              {
+                "title": "Thickness",
+                "description": "500–5000 µm"
+              },
+              {
+                "title": "Roll width",
+                "description": "4–7 m"
+              },
+              {
+                "title": "Installation",
+                "description": "Flexible on irregular surfaces. Seams can be welded on site."
+              }
+            ],
+            "catalogOrder": "3"
+          },
+          {
+            "title": "Geogrid",
+            "description": "Geotextiles",
+            "image": "/media/prod-cat-8.jpg",
+            "href": "",
+            "pageImage": "/media/prod-cat-8.jpg",
+            "slug": "geogrid",
+            "summary": "Reinforcement for roads, embankments and soil stabilization.",
+            "source": "https://arasyaplastic.com/portfolio/shelf-of-arts/",
+            "detailImage": "/media/company-geogrid.jpg",
+            "group": "geotextiles",
+            "specs": [
+              {
+                "title": "Structure",
+                "description": "High-strength grid for soil reinforcement"
+              },
+              {
+                "title": "Application",
+                "description": "Road bases, embankments and soil stabilization"
+              },
+              {
+                "title": "System integration",
+                "description": "Can be combined with geotextiles or geomembranes"
+              }
+            ],
+            "catalogOrder": "4"
+          },
+          {
+            "title": "Polyethylene Geomembrane Sheets",
+            "description": "Geomembranes",
+            "image": "/media/prod-cat-6.jpg",
+            "href": "",
+            "slug": "polyethylene-sheets",
+            "summary": "Polyethylene sheets for lining and waterproofing systems.",
+            "source": "https://arasyaplastic.com/portfolio/personal-gift/",
+            "group": "membranes",
+            "specs": [
+              {
+                "title": "Material",
+                "description": "Polyethylene"
+              },
+              {
+                "title": "Thickness",
+                "description": "500–5000 µm"
+              },
+              {
+                "title": "Width",
+                "description": "4–7 m"
+              },
+              {
+                "title": "Installation",
+                "description": "Cut to project dimensions and join where the application permits."
+              }
+            ],
+            "pageImage": "/media/prod-cat-6.jpg",
+            "catalogOrder": "5"
+          },
+          {
+            "title": "Polyethylene Rolls",
+            "description": "Geomembranes",
+            "image": "/media/prod-cat-7.jpg",
+            "href": "",
+            "slug": "polyethylene-rolls",
+            "summary": "Polyethylene rolls for lining applications.",
+            "source": "https://arasyaplastic.com/portfolio/tick-tock/",
+            "group": "membranes",
+            "specs": [
+              {
+                "title": "Material",
+                "description": "Polyethylene"
+              },
+              {
+                "title": "Thickness",
+                "description": "500–5000 µm"
+              },
+              {
+                "title": "Width",
+                "description": "4–7 m"
+              },
+              {
+                "title": "Installation",
+                "description": "Cut to project dimensions and join where the application permits."
+              }
+            ],
+            "pageImage": "/media/prod-cat-7.jpg",
+            "catalogOrder": "6"
+          },
+          {
+            "title": "PVC Membrane",
+            "description": "Geomembranes",
+            "image": "",
+            "href": "",
+            "pageImage": "/media/catalog-3.jpg",
+            "slug": "pvc-membrane",
+            "summary": "PVC membrane for waterproofing and containment applications.",
+            "source": "https://arasyaplastic.com/portfolio/typewriter/",
+            "group": "membranes",
+            "specs": [
+              {
+                "title": "Material",
+                "description": "Polyvinyl chloride (PVC)"
+              },
+              {
+                "title": "Application",
+                "description": "Flexible waterproofing for construction and lining systems"
+              },
+              {
+                "title": "Seams",
+                "description": "Joined and sealed to suit project requirements"
+              }
+            ],
+            "catalogOrder": "7"
+          },
+          {
+            "title": "TPO / Accessories",
+            "description": "Accessories",
+            "image": "",
+            "href": "",
+            "slug": "tpo-accessories",
+            "summary": "TPO membranes and accessories for waterproofing systems.",
+            "source": "https://arasyaplastic.com/portfolio/wooden-bench/",
+            "group": "accessories",
+            "specs": [
+              {
+                "title": "Material",
+                "description": "Thermoplastic polyolefin (TPO)"
+              },
+              {
+                "title": "Exposure",
+                "description": "Resists UV and weather in exposed applications."
+              },
+              {
+                "title": "Application",
+                "description": "Roofing and structural waterproofing."
+              }
+            ],
+            "catalogOrder": "8"
+          },
+          {
+            "title": "Polylock",
+            "description": "Accessories",
+            "image": "",
+            "href": "",
+            "slug": "polylock",
+            "summary": "Accessory for securing membrane to concrete.",
+            "source": "https://arasyaplastic.com/portfolio/polylock/",
+            "group": "accessories",
+            "specs": [
+              {
+                "title": "Purpose",
+                "description": "Mechanically anchors polyethylene geomembrane to concrete."
+              },
+              {
+                "title": "Installation",
+                "description": "Secures the edges of the liner at concrete terminations."
+              }
+            ],
+            "catalogOrder": ""
+          },
+          {
+            "title": "E-Lock",
+            "description": "Accessories",
+            "image": "",
+            "href": "",
+            "slug": "e-lock",
+            "summary": "Accessory for membrane anchoring at concrete structures.",
+            "source": "https://arasyaplastic.com/portfolio/e-lock/",
+            "group": "accessories",
+            "specs": [
+              {
+                "title": "Purpose",
+                "description": "Secures geomembrane liners at structural connections."
+              },
+              {
+                "title": "Application",
+                "description": "Lining transitions and edge terminations at concrete structures."
+              }
+            ],
+            "catalogOrder": ""
+          },
+          {
+            "title": "Welding & Accessories",
+            "description": "Accessories",
+            "image": "",
+            "href": "",
+            "pageImage": "/media/catalog-8.jpg",
+            "slug": "welding-accessories",
+            "summary": "Tools and accessories for joining geomembrane sheets during installation.",
+            "source": "https://arasyaplastic.com/portfolio/geomembrane-welding-accessories/",
+            "detailImage": "/media/company-welding.jpg",
+            "group": "accessories",
+            "specs": [
+              {
+                "title": "Installation tasks",
+                "description": "Welding, seaming, anchoring and finishing"
+              },
+              {
+                "title": "Material compatibility",
+                "description": "Equipment selection depends on the membrane and project."
+              }
+            ],
+            "catalogOrder": ""
+          }
+        ],
+        "navigation": "Products",
+        "intro": ""
+      },
+      {
+        "id": "projects",
+        "label": "FEATURED PROJECTS",
+        "title": "Featured Applications",
+        "background": "",
+        "items": [
+          {
+            "title": "Water Reservoir Lining",
+            "description": "Water containment",
+            "image": "/media/company-application-water.jpg",
+            "location": "",
+            "year": "",
+            "href": "/projects",
+            "detail": "HDPE geomembrane lining for water reservoirs, canals and ponds."
+          }
+        ],
+        "navigation": "Projects",
+        "intro": "Lining and containment applications."
+      },
+      {
+        "id": "about",
+        "label": "ABOUT US",
+        "title": "Protecting Projects. Preserving Value.",
+        "background": "",
+        "items": [
+          {
+            "image": "/media/about.jpg",
+            "title": "Arasya Plastic Engineering",
+            "description": "Arasya Plastic Engineering provides integrated engineering solutions for waterproofing and geomembrane systems, combining high-quality materials, technical expertise, and long-term support to ensure the sustainability and safety of your projects.",
+            "href": ""
+          }
+        ],
+        "navigation": "About Us",
+        "intro": "Arasya Plastic Engineering provides integrated engineering solutions for waterproofing and geomembrane systems, combining high-quality materials, technical expertise, and long-term support to ensure the sustainability and safety of your projects."
+      },
+      {
+        "id": "process",
+        "label": "OUR PROCESS",
+        "title": "A Complete Project Journey From Consultation to Support",
+        "background": "",
+        "items": [
+          {
+            "title": "Engineering Consultation",
+            "description": "Tailored assessment and engineering design for project requirements.",
+            "image": "",
+            "href": ""
+          },
+          {
+            "title": "Supply & Installation",
+            "description": "High-performance certified materials with certified installation teams.",
+            "image": "",
+            "href": ""
+          },
+          {
+            "title": "Warranty & Lifetime Support",
+            "description": "Comprehensive warranty, field QA/QC, and ongoing technical maintenance.",
+            "image": "",
+            "href": ""
+          }
+        ],
+        "navigation": "Our Process",
+        "intro": "We follow a structured, end-to-end process to deliver reliable and sustainable solutions for every project."
+      },
+      {
+        "id": "testimonials",
+        "label": "TESTIMONIALS",
+        "title": "What Our Clients Say",
+        "background": "",
+        "items": [],
+        "navigation": "Testimonials",
+        "intro": ""
+      },
+      {
+        "id": "partners",
+        "label": "",
+        "title": "Our Trusted Partners",
+        "background": "",
+        "items": [],
+        "navigation": "",
+        "intro": ""
+      },
+      {
+        "id": "articles",
+        "label": "",
+        "title": "Articles",
+        "background": "",
+        "items": [],
+        "navigation": "Articles",
+        "intro": ""
+      }
+    ],
+    "ui": {
+      "home": "Home",
+      "contact": "Contact",
+      "consult": "Request Consultation",
+      "solutions": "Our Solutions",
+      "watch": "Watch Company Video",
+      "all": "All Projects",
+      "more": "Learn More",
+      "formTitle": "Request Your Engineering Consultation",
+      "formIntro": "Let's discuss your project and provide the right solution for your needs.",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "service": "Project Type",
+      "details": "Project Details",
+      "send": "Send Request",
+      "sent": "Request received.",
+      "error": "Please check the form and try again.",
+      "quick": "Quick Links",
+      "rights": "All Rights Reserved.",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "subtitleAccent": "",
+    "pages": {
+      "services": {
+        "title": "Our Services",
+        "heading": "Comprehensive Solutions Across the Project Lifecycle",
+        "intro": "Integrated engineering solutions for geomembrane systems from design and supply to installation and long-term support.",
+        "image": "/media/services-hero.jpg",
+        "featureImage": "/media/serv-overview.jpg",
+        "featureText": "We provide a full range of engineering and geomembrane services, combining technical expertise, high-quality materials, and field-proven installation to ensure durable, safe, and cost-effective solutions for water containment, environmental protection, and infrastructure projects.",
+        "processLabel": "OUR PROCESS",
+        "processTitle": "A Clear & Structured Project Process",
+        "processText": "From initial consultation to final handover, we ensure quality, efficiency, and long-term performance.",
+        "benefitLabel": "WHY CHOOSE US",
+        "benefitTitle": "Your Trusted Engineering Partner",
+        "benefitText": "We deliver reliable, sustainable, and cost-effective solutions that protect your projects for the long run.",
+        "ctaTitle": "Request Your Engineering Consultation",
+        "benefits": [
+          {
+            "title": "Proven Expertise",
+            "description": "Years of specialized experience.",
+            "icon": "◇"
+          },
+          {
+            "title": "High-Quality Materials",
+            "description": "International standards and certified products.",
+            "icon": "layers"
+          },
+          {
+            "title": "Sustainable Solutions",
+            "description": "Environmentally responsible and durable.",
+            "icon": "leaf"
+          },
+          {
+            "title": "Dedicated Support",
+            "description": "Responsive technical team at every stage.",
+            "icon": "discussion"
+          }
+        ],
+        "heroBenefits": [
+          {
+            "title": "Engineering Expertise",
+            "icon": "⚙"
+          },
+          {
+            "title": "End-to-End Solutions",
+            "icon": "layers"
+          },
+          {
+            "title": "Reliable Long-Term Support",
+            "icon": "◇"
+          }
+        ],
+        "overviewLabel": "OUR SERVICES OVERVIEW",
+        "ctaText": "Discuss your project with our experts and get a tailored solution for your needs.",
+        "secondaryAction": "Contact Our Team",
+        "secondaryHref": "/contact",
+        "ctaImage": "/media/serv-cta-banner.jpg",
+        "eyebrow": "ENGINEERING PLASTIC SOLUTIONS",
+        "heroImage": "/media/services-hero.jpg"
+      },
+      "products": {
+        "title": "Our Products",
+        "heading": "Explore Our Product Range",
+        "intro": "High-performance plastic solutions for water containment, protection, and long-term infrastructure.",
+        "image": "/media/products-hero.jpg",
+        "featureImage": "/media/prod-feature.jpg",
+        "featureText": "High-density polyethylene liner for water containment, environmental protection and infrastructure.",
+        "specTitle": "View Technical Data",
+        "specHref": "/technical-specifications",
+        "catalogMore": "More Products",
+        "benefitTitle": "Why Choose Our Products?",
+        "ctaTitle": "Need the Right Product for Your Project?",
+        "specs": [
+          {
+            "title": "Thickness",
+            "description": "500–5000 µm"
+          },
+          {
+            "title": "Roll width",
+            "description": "4–7 m"
+          },
+          {
+            "title": "Material",
+            "description": "HDPE"
+          },
+          {
+            "title": "Chemical resistance",
+            "description": "High"
+          },
+          {
+            "title": "Expected service life",
+            "description": "Up to 25 years, depending on project conditions"
+          },
+          {
+            "title": "Exposure",
+            "description": "UV and weather resistant"
+          }
+        ],
+        "benefits": [
+          {
+            "title": "High Durability",
+            "description": "Engineered for long-term performance in harsh conditions.",
+            "icon": "◇"
+          },
+          {
+            "title": "Wide Applications",
+            "description": "Suitable for reservoirs, landfills, infrastructure and industrial projects.",
+            "icon": "layers"
+          },
+          {
+            "title": "Chemical Resistance",
+            "description": "Geomembranes are available for applications that require chemical resistance.",
+            "icon": "⚙"
+          },
+          {
+            "title": "Sustainable Solution",
+            "description": "Environmentally friendly materials with extended service life.",
+            "icon": "leaf"
+          }
+        ],
+        "eyebrow": "OUR PRODUCTS",
+        "catalogLabel": "PRODUCT CATALOG",
+        "featureLabel": "FEATURED PRODUCT",
+        "benefitLabel": "TECHNICAL HIGHLIGHTS",
+        "ctaText": "Our technical team will help you select the best solution based on your project requirements.",
+        "ctaImage": "/media/prod-cta-banner.jpg",
+        "heroBenefits": [
+          {
+            "title": "Proven Quality",
+            "icon": "quality"
+          },
+          {
+            "title": "Long Service Life",
+            "icon": "shield"
+          },
+          {
+            "title": "Environmentally Responsible",
+            "icon": "leaf"
+          }
+        ],
+        "backToCatalog": "Back to catalog",
+        "companySource": "Product on company website",
+        "catalogFilter": "Filter product catalog",
+        "catalogAll": "All Products",
+        "catalogGroups": [
+          {
+            "key": "membranes",
+            "title": "Geomembranes",
+            "icon": "layers"
+          },
+          {
+            "key": "geotextiles",
+            "title": "Geotextiles",
+            "icon": "plan"
+          },
+          {
+            "key": "accessories",
+            "title": "Accessories",
+            "icon": "compass"
+          },
+          {
+            "key": "protection",
+            "title": "Protection Systems",
+            "icon": "checklist"
+          }
+        ],
+        "secondaryAction": "Talk to Our Experts",
+        "secondaryHref": "/contact",
+        "featureTitle": "HDPE Geomembrane",
+        "heroImage": "/media/products-hero.jpg"
+      },
+      "projects": {
+        "title": "Our Projects",
+        "heading": "Explore More of Our Projects",
+        "intro": "Lining and waterproofing applications across water storage, agriculture, industry and infrastructure.",
+        "image": "/media/projects-hero.jpg",
+        "featureImage": "/media/company-application-water.jpg",
+        "featureText": "",
+        "galleryTitle": "Explore Lining Applications",
+        "sectorTitle": "Our Project Expertise Across Key Sectors",
+        "ctaTitle": "Have a Similar Project?",
+        "gallery": [
+          {
+            "title": "Geomembrane panel welding",
+            "image": "/media/company-welding.jpg",
+            "sector": "industry"
+          },
+          {
+            "title": "Water containment basins",
+            "image": "/media/company-application-water.jpg",
+            "sector": "agriculture"
+          },
+          {
+            "title": "Wastewater containment works",
+            "image": "/media/company-application-wastewater.jpg",
+            "sector": "waste management"
+          },
+          {
+            "title": "Road infrastructure lining",
+            "image": "/media/company-application-roads.jpg",
+            "sector": "infrastructure"
+          },
+          {
+            "title": "Water canal lining",
+            "image": "/media/company-application-canal.jpg",
+            "sector": "infrastructure"
+          }
+        ],
+        "sectors": [
+          {
+            "title": "Water Reservoirs",
+            "description": "Reservoirs, water storage tanks, and water containment systems.",
+            "image": "/media/company-application-water.jpg",
+            "icon": "water",
+            "href": "/projects"
+          },
+          {
+            "title": "Waste Management",
+            "description": "Landfill lining, leachate ponds, and waste containment solutions.",
+            "image": "/media/company-application-wastewater.jpg",
+            "icon": "recycle",
+            "href": "/projects"
+          },
+          {
+            "title": "Agriculture",
+            "description": "Irrigation ponds, water storage, and agricultural lining systems.",
+            "image": "/media/company-application-aquaculture.jpg",
+            "icon": "leaf",
+            "href": "/projects"
+          },
+          {
+            "title": "Industrial Facilities",
+            "description": "Lining solutions for industrial ponds, process water, and chemical containment.",
+            "image": "/media/company-application-industrial.jpg",
+            "icon": "factory",
+            "href": "/projects"
+          }
+        ],
+        "eyebrow": "OUR PROJECTS",
+        "featureLabel": "FEATURED APPLICATION",
+        "featureTitle": "Water Reservoir Lining",
+        "featureScope": "Application",
+        "featureOutcome": "Uses",
+        "featureDetails": "HDPE geomembrane lining for water reservoirs, canals and ponds.",
+        "featureBenefits": "Water storage reservoirs • Agricultural ponds • Canal lining",
+        "galleryLabel": "APPLICATION GALLERY",
+        "sectorLabel": "APPLICATIONS BY SECTOR",
+        "allSectors": "All Projects",
+        "ctaText": "Let's discuss your requirements and provide the right engineering solution.",
+        "galleryAction": "View All Projects",
+        "galleryClose": "Close image",
+        "sectorAction": "View Applications",
+        "navigationSectors": [
+          {
+            "key": "water",
+            "title": "Water Reservoirs",
+            "icon": "water"
+          },
+          {
+            "key": "waste",
+            "title": "Waste Management",
+            "icon": "recycle"
+          },
+          {
+            "key": "agriculture",
+            "title": "Agriculture",
+            "icon": "leaf"
+          },
+          {
+            "key": "industrial",
+            "title": "Industrial Facilities",
+            "icon": "factory"
+          },
+          {
+            "key": "infrastructure",
+            "title": "Infrastructure",
+            "icon": "infrastructure"
+          }
+        ],
+        "previewLabel": "Enlarge featured image",
+        "heroImage": "/media/projects-hero.jpg"
+      },
+      "contact": {
+        "title": "Contact Us",
+        "heading": "Send Us Your Project Inquiry",
+        "intro": "Have a project or inquiry? Our team is ready to provide the right engineering solution for you.",
+        "image": "/media/contact-hero.jpg",
+        "officeTitle": "Office Location",
+        "address": "15 Mostafa Refaat Street, Square 1138, Heliopolis, Cairo, Egypt",
+        "map": "https://www.google.com/maps/search/?api=1&query=15%20Mostafa%20Refaat%20Street%2C%20Square%201138%2C%20Heliopolis%2C%20Cairo%2C%20Egypt",
+        "eyebrow": "GET IN TOUCH",
+        "formLabel": "INQUIRY FORM",
+        "formText": "Fill in the form below with your project details, and our engineering team will contact you with a tailored solution.",
+        "officeLabel": "OUR OFFICE",
+        "mapAction": "Open map",
+        "supportTitle": "Need Immediate Support?",
+        "supportText": "Contact our engineering team for quick assistance and technical guidance.",
+        "supportAction": "Get in Touch Now",
+        "supportImage": "/media/contact-support-banner.jpg",
+        "methods": [
+          {
+            "icon": "☎",
+            "title": "Call Us",
+            "description": "Speak directly with our engineering team.",
+            "label": "+20 100 513 9173",
+            "href": "tel:+201005139173"
+          },
+          {
+            "icon": "✉",
+            "title": "Email Us",
+            "description": "Send your inquiry and we'll get back to you shortly.",
+            "label": "info@arasyaplastic.com",
+            "href": "mailto:info@arasyaplastic.com"
+          },
+          {
+            "icon": "⌖",
+            "title": "Visit Us",
+            "description": "Find our office in Heliopolis, Cairo.",
+            "label": "Cairo, Egypt",
+            "href": "https://www.google.com/maps/search/?api=1&query=15%20Mostafa%20Refaat%20Street%2C%20Square%201138%2C%20Heliopolis%2C%20Cairo%2C%20Egypt"
+          }
+        ],
+        "company": "Company",
+        "projectType": "Project Type",
+        "projectDetails": "Tell us about your project",
+        "detailsHint": "e.g. project scope, application, area size, desired materials, timeline, etc.",
+        "sendInquiry": "Send Inquiry",
+        "supportIcon": "☎",
+        "officeCity": "Cairo, Egypt",
+        "officeContactTitle": "Phone numbers",
+        "officeContactText": "+20 100 513 9173\n+20 2 226 799 15\n+20 2 226 799 16",
+        "heroImage": "/media/contact-hero.jpg",
+        "ctaImage": "/media/contact-support-banner.jpg"
+      },
+      "about": {
+        "title": "About Us",
+        "heading": "Protecting Projects. Preserving Value.",
+        "intro": "Arasya specializes in manufacturing, supplying and installing geomembrane liners and waterproofing systems.",
+        "image": "/media/about.jpg",
+        "overviewLabel": "About Arasya Plastic",
+        "featureImage": "/media/about.jpg",
+        "featureText": "Founded in 2002, Arasya Plastic supplies lining systems for water reservoirs, fish farms, canals, industrial facilities and infrastructure projects.",
+        "sourceHref": "https://arasyaplastic.com/about/",
+        "sourceLabel": "About Arasya on the company website",
+        "blocks": [
+          {
+            "title": "Lining materials",
+            "description": "Polyethylene geomembranes, geotextiles and anchoring accessories for water containment and waterproofing.",
+            "image": "/media/company-hdpe.jpg",
+            "href": "/products?lang=en"
+          },
+          {
+            "title": "Supply and installation",
+            "description": "Supply, installation and welding for agricultural, industrial, environmental and infrastructure projects.",
+            "image": "/media/gallery-field.jpg",
+            "href": "/services?lang=en"
+          },
+          {
+            "title": "Quality and technical support",
+            "description": "Material selection and installation guidance based on site conditions, exposure and the project’s required performance.",
+            "image": "/media/company-geotextile.jpg",
+            "href": "/technical-specifications?lang=en"
+          }
+        ]
+      },
+      "articles": {
+        "title": "Articles",
+        "heading": "News and guides",
+        "intro": "Articles on lining and waterproofing systems.",
+        "image": "/media/page-services.jpg",
+        "backToArticles": "Back to articles",
+        "emptyText": "Articles will appear here when they are added."
+      },
+      "applications": {
+        "title": "Applications",
+        "heading": "Lining and Waterproofing Applications",
+        "intro": "Explore how geomembranes and geotextiles are used in water management, industry and infrastructure.",
+        "image": "/media/page-projects.jpg",
+        "sourceHref": "https://arasyaplastic.com/applications/",
+        "sourceLabel": "Company source",
+        "blocks": [
+          {
+            "title": "Water reservoirs",
+            "description": "HDPE and LDPE liners help limit seepage in reservoirs and storage basins.",
+            "image": "/media/company-application-water.jpg",
+            "href": "/products/hdpe-geomembrane?lang=en"
+          },
+          {
+            "title": "Fish farms",
+            "description": "Liners help retain water and limit leakage in aquaculture ponds.",
+            "image": "/media/company-application-aquaculture.jpg",
+            "href": "/products/ldpe-geomembrane?lang=en"
+          },
+          {
+            "title": "Canal lining",
+            "description": "Liners limit seepage and erosion along irrigation and water distribution channels.",
+            "image": "/media/company-application-canal.jpg",
+            "href": "/products/hdpe-geomembrane?lang=en"
+          },
+          {
+            "title": "Artificial lakes and landscaping",
+            "description": "Flexible membranes help retain water on shaped surfaces in ponds and landscape features.",
+            "image": "/media/company-application-lakes.jpg",
+            "href": "/products/ldpe-geomembrane?lang=en"
+          },
+          {
+            "title": "Tanks and concrete structures",
+            "description": "Membrane liners add a waterproof layer. Anchoring accessories secure the liner to concrete.",
+            "image": "/media/company-application-tanks.jpg",
+            "href": "/products/polylock?lang=en"
+          },
+          {
+            "title": "Wastewater basins",
+            "description": "Choose a containment liner based on the liquid and expected chemical exposure.",
+            "image": "/media/company-application-wastewater.jpg",
+            "href": "/products/hdpe-geomembrane?lang=en"
+          },
+          {
+            "title": "Industrial containment",
+            "description": "Select a liner suited to the liquid and chemical exposure.",
+            "image": "/media/company-application-industrial.jpg",
+            "href": "/products/hdpe-geomembrane?lang=en"
+          },
+          {
+            "title": "Roads and infrastructure",
+            "description": "Geotextiles and geogrids help separate soil layers, distribute loads and reinforce road bases.",
+            "image": "/media/company-application-roads.jpg",
+            "href": "/products/geogrid?lang=en"
+          },
+          {
+            "title": "Tunnels and foundations",
+            "description": "Waterproofing membranes help protect buried structures from water and ground moisture.",
+            "image": "/media/company-application-underground.jpg",
+            "href": "/products/pvc-membrane?lang=en"
+          }
+        ]
+      },
+      "technical-specifications": {
+        "title": "Technical Specifications",
+        "heading": "Technical Specifications",
+        "intro": "Engineering guidance from Arasya Plastic.",
+        "image": "/media/page-products.jpg",
+        "sourceHref": "https://arasyaplastic.com/technical-specifications/",
+        "sourceLabel": "Company source",
+        "blocks": [
+          {
+            "title": "Polyethylene membrane thickness",
+            "description": "500–5000 µm",
+            "image": "/media/membrane.jpg",
+            "href": ""
+          },
+          {
+            "title": "Membrane roll width",
+            "description": "4–7 m",
+            "image": "",
+            "href": ""
+          },
+          {
+            "title": "Geotextile mass",
+            "description": "50–1000 g/m²",
+            "image": "/media/fabric.jpg",
+            "href": ""
+          }
+        ]
+      },
+      "how-to-choose-the-right-product": {
+        "title": "Product Selection Guide",
+        "heading": "Product Selection Guide",
+        "intro": "Engineering guidance from Arasya Plastic.",
+        "image": "/media/page-services.jpg",
+        "sourceHref": "https://arasyaplastic.com/how-to-choose-the-right-product/",
+        "sourceLabel": "Company source",
+        "blocks": [
+          {
+            "title": "Identify the application",
+            "description": "Start with the need for containment, waterproofing, drainage or reinforcement.",
+            "image": "",
+            "href": ""
+          },
+          {
+            "title": "Review site conditions",
+            "description": "Consider the soil, water and chemical exposure before selecting a material.",
+            "image": "",
+            "href": ""
+          },
+          {
+            "title": "Confirm installation requirements",
+            "description": "Review liner thickness, protection layers and installation method with the engineering team.",
+            "image": "",
+            "href": ""
+          }
+        ]
+      }
+    },
+    "homeProof": {
+      "video": "https://www.youtube.com/watch?v=FyS_zcvmUr4",
+      "title": "Engineering Excellence You Can Trust",
+      "kicker": "WHY CHOOSE ARASYA",
+      "projectAction": "View All Projects",
+      "facts": [
+        {
+          "icon": "▤",
+          "value": "2002",
+          "title": "Established"
+        },
+        {
+          "icon": "◇",
+          "value": "HDPE",
+          "title": "Geomembrane"
+        },
+        {
+          "icon": "▱",
+          "value": "PVC",
+          "title": "Lining Systems"
+        },
+        {
+          "icon": "⌖",
+          "value": "Cairo",
+          "title": "Company Office"
+        }
+      ],
+      "reasons": [
+        {
+          "title": "Proven Experience",
+          "description": "Years of successful projects across the region."
+        },
+        {
+          "title": "Certified Materials",
+          "description": "International quality standards and testing."
+        },
+        {
+          "title": "Reliable Support",
+          "description": "From consultation to long-term maintenance."
+        },
+        {
+          "title": "Sustainable Solutions",
+          "description": "Durable, safe, and environmentally friendly."
+        }
+      ],
+      "aboutFeatures": [
+        {
+          "title": "Trusted Engineering Partner",
+          "icon": "✓"
+        },
+        {
+          "title": "High-Quality Materials",
+          "icon": "✓"
+        },
+        {
+          "title": "Complete Project Support",
+          "icon": "✓"
+        },
+        {
+          "title": "Long-Term Durability",
+          "icon": "✓"
+        }
+      ],
+      "processSubtitle": "From Consultation to Completion",
+      "aboutSummary": "Arasya Plastic Engineering provides integrated engineering solutions for waterproofing and geomembrane systems, combining high-quality materials, technical expertise, and long-term support to ensure the sustainability and safety of your projects.",
+      "projectCaption": "Water Storage & Containment",
+      "customerTitle": "Our Valued Partners",
+      "customers": [
+        {
+          "title": "Orascom Construction",
+          "image": "/media/customer-2.jpg"
+        },
+        {
+          "title": "Ezz Steel",
+          "image": "/media/customer-9.jpg"
+        },
+        {
+          "title": "Cairo Metro",
+          "image": "/media/customer-10.jpg"
+        },
+        {
+          "title": "CityStar",
+          "image": "/media/customer-8.jpg"
+        },
+        {
+          "title": "Palm Hills",
+          "image": "/media/customer-4.jpg"
+        }
+      ],
+      "projectPreviews": [
+        {
+          "title": "Wastewater containment works",
+          "image": "/media/company-application-wastewater.jpg"
+        },
+        {
+          "title": "Water canal lining",
+          "image": "/media/company-application-canal.jpg"
+        },
+        {
+          "title": "Geomembrane panel welding",
+          "image": "/media/company-welding.jpg"
+        }
+      ]
+    },
+    "chrome": {
+      "brandTitle": "Arasya Plastic",
+      "brandSubtitle": "Engineering",
+      "footerIntro": "Complete engineering solutions for geomembrane, waterproofing, and plastic systems across a wide range of projects.",
+      "footerServices": "Our Services",
+      "footerProducts": "Our Solutions"
+    },
+    "socialLinks": [
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/company/arasya-plastic",
+        "icon": "in"
+      },
+      {
+        "title": "Facebook",
+        "href": "https://www.facebook.com/arasya-plastic",
+        "icon": "f"
+      },
+      {
+        "title": "YouTube",
+        "href": "https://www.youtube.com/@arasyaplastic",
+        "icon": "▶"
+      }
+    ]
+  },
+  "ar": {
+    "brand": "Arasya Plastic Engineering",
+    "tagline": "حلول هندسية للمواد البلاستيكية",
+    "headline": "ابدأ مشاريعك الجديدة بحماية تدوم طويلاً",
+    "subtitle": "حلول متكاملة للجيوممبرين والعزل المائي من التصنيع إلى الدعم طويل الأمد.",
+    "intro": "",
+    "hero": "/media/hero.jpg",
+    "logo": "/media/logo.jpg",
+    "green": "#063328",
+    "orange": "#f58220",
+    "stats": [],
+    "features": [
+      "متانة عالية",
+      "حلول مخصصة",
+      "دعم متكامل"
+    ],
+    "video": "",
+    "contactLinks": [
+      {
+        "title": "+20 100 513 9173",
+        "href": "tel:+201005139173"
+      },
+      {
+        "title": "info@arasyaplastic.com",
+        "href": "mailto:info@arasyaplastic.com"
+      },
+      {
+        "title": "القاهرة، مصر",
+        "href": "https://www.google.com/maps/search/?api=1&query=15%20Mostafa%20Refaat%20Street%2C%20Square%201138%2C%20Heliopolis%2C%20Cairo%2C%20Egypt"
+      }
+    ],
+    "sections": [
+      {
+        "id": "services",
+        "label": "خدماتنا",
+        "title": "حلول هندسية متكاملة",
+        "background": "",
+        "items": [
+          {
+            "image": "/media/serv-card-1.jpg",
+            "title": "الدعم الفني والاستشارات",
+            "description": "إرشاد فني لاختيار المواد وأنظمة التبطين وفقًا للتطبيق وظروف الموقع.",
+            "href": "/contact?lang=ar",
+            "pageImage": "/media/serv-card-1.jpg",
+            "detail": "اختيار المواد • إرشادات التطبيق • ظروف الموقع",
+            "icon": "◇"
+          },
+          {
+            "image": "/media/serv-card-2.jpg",
+            "title": "توريد وتركيب أغشية الجيوممبرين",
+            "description": "توريد وتركيب أغشية الجيوممبرين في الموقع للتطبيقات الصناعية والزراعية والبيئية والبنية التحتية.",
+            "href": "/contact?lang=ar",
+            "pageImage": "/media/serv-card-2.jpg",
+            "detail": "أغشية HDPE وLDPE وPVC وTPO • التركيب في الموقع • اللحام وربط الألواح",
+            "icon": "◎"
+          },
+          {
+            "image": "/media/serv-card-3.jpg",
+            "title": "الضمان وخدمات ما بعد البيع",
+            "description": "توثيق المشروع وإدارة الضمان والصيانة والدعم الفني المستمر.",
+            "href": "/contact?lang=ar",
+            "pageImage": "/media/serv-card-3.jpg",
+            "detail": "توثيق المشروع • دعم الضمان • الصيانة",
+            "icon": "⚙"
+          }
+        ],
+        "navigation": "خدماتنا",
+        "intro": "من التصميم والتوريد إلى التركيب والصيانة طويلة الأمد."
+      },
+      {
+        "id": "products",
+        "label": "منتجاتنا",
+        "title": "حلول بلاستيكية عالية الأداء",
+        "background": "",
+        "items": [
+          {
+            "image": "/media/catalog-1.jpg",
+            "title": "أغشية البولي إيثيلين عالي الكثافة",
+            "description": "500–5000 ميكرومتر",
+            "href": "https://arasyaplastic.com/portfolio/chair-design/",
+            "pageImage": "/media/catalog-1.jpg",
+            "catalogOrder": "1",
+            "slug": "hdpe-geomembrane",
+            "summary": "غشاء من البولي إيثيلين عالي الكثافة يُستخدم لاحتواء المياه وحماية البيئة وفي مشروعات البنية التحتية.",
+            "source": "https://arasyaplastic.com/portfolio/chair-design/",
+            "detailImage": "/media/company-hdpe.jpg",
+            "caption": "4–7 أمتار",
+            "compactImage": "/media/home-product-1.jpg",
+            "group": "membranes",
+            "specs": [
+              {
+                "title": "السماكة",
+                "description": "500–5000 ميكرومتر"
+              },
+              {
+                "title": "عرض اللفة",
+                "description": "4–7 أمتار"
+              },
+              {
+                "title": "المادة",
+                "description": "HDPE"
+              },
+              {
+                "title": "المقاومة الكيميائية",
+                "description": "عالية"
+              },
+              {
+                "title": "العمر التشغيلي المتوقع",
+                "description": "حتى 25 سنة حسب ظروف المشروع"
+              },
+              {
+                "title": "التعرّض للعوامل الجوية",
+                "description": "مقاوم للأشعة فوق البنفسجية والعوامل الجوية"
+              }
+            ]
+          },
+          {
+            "image": "/media/catalog-5.jpg",
+            "title": "جيوتكستايل",
+            "description": "الفصل والترشيح والتصريف",
+            "href": "https://arasyaplastic.com/portfolio/project-stamp/",
+            "pageImage": "/media/catalog-5.jpg",
+            "catalogOrder": "2",
+            "slug": "geotextile",
+            "summary": "نسيج للفصل والترشيح والتصريف وحماية أنظمة التبطين.",
+            "source": "https://arasyaplastic.com/portfolio/project-stamp/",
+            "detailImage": "/media/company-geotextile.jpg",
+            "caption": "الفصل والترشيح والتصريف",
+            "compactImage": "/media/home-product-2.jpg",
+            "group": "geotextiles",
+            "specs": [
+              {
+                "title": "الوزن السطحي",
+                "description": "٥٠–١٠٠٠ غرام/م²"
+              },
+              {
+                "title": "الاستخدامات",
+                "description": "الفصل والترشيح والتصريف"
+              },
+              {
+                "title": "حماية الغشاء",
+                "description": "يقلل خطر ثقب أغشية التبطين"
+              }
+            ]
+          },
+          {
+            "title": "أغشية البولي إيثيلين منخفض الكثافة",
+            "description": "أغشية العزل",
+            "image": "/media/prod-cat-5.jpg",
+            "href": "",
+            "pageImage": "/media/prod-cat-5.jpg",
+            "slug": "ldpe-geomembrane",
+            "summary": "غشاء بولي إيثيلين منخفض الكثافة لاحتواء المياه والعزل.",
+            "source": "https://arasyaplastic.com/portfolio/infinity-brand/",
+            "group": "membranes",
+            "specs": [
+              {
+                "title": "السماكة",
+                "description": "٥٠٠–٥٠٠٠ ميكرون"
+              },
+              {
+                "title": "عرض اللفة",
+                "description": "٤–٧ أمتار"
+              },
+              {
+                "title": "التركيب",
+                "description": "مرن على الأسطح غير المنتظمة، ويمكن لحام الوصلات في الموقع."
+              }
+            ],
+            "catalogOrder": "3"
+          },
+          {
+            "title": "الشبكات الجيوتقنية",
+            "description": "المنسوجات الأرضية",
+            "image": "/media/prod-cat-8.jpg",
+            "href": "",
+            "pageImage": "/media/prod-cat-8.jpg",
+            "slug": "geogrid",
+            "summary": "تدعيم للطرق والردميات وتثبيت التربة.",
+            "source": "https://arasyaplastic.com/portfolio/shelf-of-arts/",
+            "detailImage": "/media/company-geogrid.jpg",
+            "group": "geotextiles",
+            "specs": [
+              {
+                "title": "البنية",
+                "description": "شبكة عالية المتانة لتدعيم التربة"
+              },
+              {
+                "title": "الاستخدام",
+                "description": "طبقات أساس الطرق والردميات وتثبيت التربة"
+              },
+              {
+                "title": "الدمج مع الأنظمة",
+                "description": "يمكن دمجها مع المنسوجات الأرضية أو أغشية التبطين"
+              }
+            ],
+            "catalogOrder": "4"
+          },
+          {
+            "title": "ألواح أغشية البولي إيثيلين",
+            "description": "أغشية العزل",
+            "image": "/media/prod-cat-6.jpg",
+            "href": "",
+            "slug": "polyethylene-sheets",
+            "summary": "ألواح بولي إيثيلين لأنظمة التبطين والعزل.",
+            "source": "https://arasyaplastic.com/portfolio/personal-gift/",
+            "group": "membranes",
+            "specs": [
+              {
+                "title": "المادة",
+                "description": "بولي إيثيلين"
+              },
+              {
+                "title": "السماكة",
+                "description": "٥٠٠–٥٠٠٠ ميكرون"
+              },
+              {
+                "title": "العرض",
+                "description": "٤–٧ أمتار"
+              },
+              {
+                "title": "التركيب",
+                "description": "تُقص حسب أبعاد المشروع وتُوصل حسب طبيعة الاستخدام."
+              }
+            ],
+            "pageImage": "/media/prod-cat-6.jpg",
+            "catalogOrder": "5"
+          },
+          {
+            "title": "لفائف البولي إيثيلين",
+            "description": "أغشية العزل",
+            "image": "/media/prod-cat-7.jpg",
+            "href": "",
+            "slug": "polyethylene-rolls",
+            "summary": "لفائف بولي إيثيلين لتطبيقات التبطين.",
+            "source": "https://arasyaplastic.com/portfolio/tick-tock/",
+            "group": "membranes",
+            "specs": [
+              {
+                "title": "المادة",
+                "description": "بولي إيثيلين"
+              },
+              {
+                "title": "السماكة",
+                "description": "٥٠٠–٥٠٠٠ ميكرون"
+              },
+              {
+                "title": "العرض",
+                "description": "٤–٧ أمتار"
+              },
+              {
+                "title": "التركيب",
+                "description": "تُقص حسب أبعاد المشروع وتُوصل حسب طبيعة الاستخدام."
+              }
+            ],
+            "pageImage": "/media/prod-cat-7.jpg",
+            "catalogOrder": "6"
+          },
+          {
+            "title": "أغشية PVC",
+            "description": "أغشية العزل",
+            "image": "",
+            "href": "",
+            "pageImage": "/media/catalog-3.jpg",
+            "slug": "pvc-membrane",
+            "summary": "غشاء PVC لتطبيقات العزل والاحتواء.",
+            "source": "https://arasyaplastic.com/portfolio/typewriter/",
+            "group": "membranes",
+            "specs": [
+              {
+                "title": "المادة",
+                "description": "بولي فينيل كلوريد (PVC)"
+              },
+              {
+                "title": "الاستخدام",
+                "description": "عزل مائي مرن لمشروعات البناء وأنظمة التبطين"
+              },
+              {
+                "title": "الوصلات",
+                "description": "تُوصل وتُحكم حسب متطلبات المشروع"
+              }
+            ],
+            "catalogOrder": "7"
+          },
+          {
+            "title": "أغشية TPO وملحقاتها",
+            "description": "الملحقات",
+            "image": "",
+            "href": "",
+            "slug": "tpo-accessories",
+            "summary": "أغشية TPO وملحقات لأنظمة العزل.",
+            "source": "https://arasyaplastic.com/portfolio/wooden-bench/",
+            "group": "accessories",
+            "specs": [
+              {
+                "title": "المادة",
+                "description": "بولي أوليفين لدن حراري (TPO)"
+              },
+              {
+                "title": "التعرّض",
+                "description": "يقاوم الأشعة فوق البنفسجية والعوامل الجوية في التطبيقات المكشوفة."
+              },
+              {
+                "title": "الاستخدام",
+                "description": "عزل الأسطح والمنشآت من المياه."
+              }
+            ],
+            "catalogOrder": "8"
+          },
+          {
+            "title": "بولي لوك",
+            "description": "الملحقات",
+            "image": "",
+            "href": "",
+            "slug": "polylock",
+            "summary": "ملحق لتثبيت الأغشية على الخرسانة.",
+            "source": "https://arasyaplastic.com/portfolio/polylock/",
+            "group": "accessories",
+            "specs": [
+              {
+                "title": "الوظيفة",
+                "description": "يثبّت أغشية البولي إيثيلين ميكانيكيًا في الخرسانة."
+              },
+              {
+                "title": "التركيب",
+                "description": "يثبّت حواف الغشاء عند نقاط انتهاء التبطين على الخرسانة."
+              }
+            ],
+            "catalogOrder": ""
+          },
+          {
+            "title": "إي لوك",
+            "description": "الملحقات",
+            "image": "",
+            "href": "",
+            "slug": "e-lock",
+            "summary": "ملحق لتثبيت الأغشية عند المنشآت الخرسانية.",
+            "source": "https://arasyaplastic.com/portfolio/e-lock/",
+            "group": "accessories",
+            "specs": [
+              {
+                "title": "الوظيفة",
+                "description": "يثبّت أغشية التبطين عند نقاط اتصالها بالمنشأ."
+              },
+              {
+                "title": "الاستخدام",
+                "description": "وصلات التبطين ونهايات الأغشية عند المنشآت الخرسانية."
+              }
+            ],
+            "catalogOrder": ""
+          },
+          {
+            "title": "اللحام والملحقات",
+            "description": "الملحقات",
+            "image": "",
+            "href": "",
+            "pageImage": "/media/catalog-8.jpg",
+            "slug": "welding-accessories",
+            "summary": "أدوات وملحقات لوصل أغشية التبطين أثناء التركيب.",
+            "source": "https://arasyaplastic.com/portfolio/geomembrane-welding-accessories/",
+            "detailImage": "/media/company-welding.jpg",
+            "group": "accessories",
+            "specs": [
+              {
+                "title": "مهام التركيب",
+                "description": "اللحام ووصل الأغشية والتثبيت والتشطيب"
+              },
+              {
+                "title": "توافق المواد",
+                "description": "يعتمد اختيار المعدات على نوع الغشاء ومتطلبات المشروع."
+              }
+            ],
+            "catalogOrder": ""
+          }
+        ],
+        "navigation": "منتجاتنا",
+        "intro": ""
+      },
+      {
+        "id": "projects",
+        "label": "مشروعاتنا",
+        "title": "تطبيقات مختارة",
+        "background": "",
+        "items": [
+          {
+            "title": "تبطين خزانات المياه",
+            "description": "احتواء المياه",
+            "image": "/media/company-application-water.jpg",
+            "location": "",
+            "year": "",
+            "href": "/projects?lang=ar",
+            "detail": "تبطين خزانات المياه والقنوات والأحواض بأغشية البولي إيثيلين عالي الكثافة."
+          }
+        ],
+        "navigation": "مشروعاتنا",
+        "intro": "تطبيقات التبطين واحتواء المياه."
+      },
+      {
+        "id": "about",
+        "label": "عن الشركة",
+        "title": "حماية المشروعات والحفاظ على قيمتها",
+        "background": "",
+        "items": [
+          {
+            "image": "/media/about.jpg",
+            "title": "أراسيا للهندسة البلاستيكية",
+            "description": "تأسست أراسيا بلاستيك في ٢٠٠٢ وتوفر أنظمة تبطين وعزل للمشروعات الصناعية والزراعية والبيئية ومشروعات البنية التحتية.",
+            "href": ""
+          }
+        ],
+        "navigation": "عن الشركة",
+        "intro": ""
+      },
+      {
+        "id": "process",
+        "label": "خطوات العمل",
+        "title": "مسار منظم لتنفيذ المشروع",
+        "background": "",
+        "items": [
+          {
+            "title": "الاستشارة الهندسية",
+            "description": "تقييم شامل وتصميم هندسي مخصص لاحتياجات المشروع.",
+            "image": "",
+            "href": ""
+          },
+          {
+            "title": "التوريد والتركيب",
+            "description": "مواد عالية الجودة معتمدة مع فرق تركيب هندسية متخصصة.",
+            "image": "",
+            "href": ""
+          },
+          {
+            "title": "الضمان والدعم الفني",
+            "description": "ضمان شامل ومراقبة الجودة في الموقع وصيانة دورية مستمرة.",
+            "image": "",
+            "href": ""
+          }
+        ],
+        "navigation": "خطوات العمل",
+        "intro": ""
+      },
+      {
+        "id": "testimonials",
+        "label": "الشهادات",
+        "title": "آراء العملاء",
+        "background": "",
+        "items": [],
+        "navigation": "الشهادات",
+        "intro": ""
+      },
+      {
+        "id": "partners",
+        "label": "",
+        "title": "شركاؤنا",
+        "background": "",
+        "items": [],
+        "navigation": "",
+        "intro": ""
+      },
+      {
+        "id": "articles",
+        "label": "",
+        "title": "المقالات",
+        "background": "",
+        "items": [],
+        "navigation": "",
+        "intro": ""
+      }
+    ],
+    "ui": {
+      "home": "الرئيسية",
+      "contact": "تواصل معنا",
+      "consult": "اطلب استشارة",
+      "solutions": "حلولنا",
+      "watch": "شاهد فيديو الشركة",
+      "all": "الكل",
+      "more": "اعرف المزيد",
+      "formTitle": "اطلب استشارتك الهندسية",
+      "formIntro": "دعنا نناقش مشروعك ونحدد الحل المناسب.",
+      "name": "الاسم الكامل",
+      "email": "البريد الإلكتروني",
+      "phone": "رقم الهاتف",
+      "service": "الخدمة المطلوبة",
+      "details": "تفاصيل المشروع",
+      "send": "إرسال الطلب",
+      "sent": "تم استلام الطلب.",
+      "error": "راجع البيانات وحاول مرة أخرى.",
+      "quick": "روابط سريعة",
+      "rights": "جميع الحقوق محفوظة.",
+      "next": "التالي",
+      "previous": "السابق"
+    },
+    "subtitleAccent": "",
+    "pages": {
+      "services": {
+        "title": "خدماتنا",
+        "heading": "حلول متكاملة عبر مراحل المشروع",
+        "intro": "توريد وتركيب ولحام أغشية العزل مع الدعم الفني.",
+        "image": "/media/page-services.jpg",
+        "featureImage": "/media/serv-overview.jpg",
+        "featureText": "يساعد فريقنا الهندسي في اختيار مواد التبطين المناسبة للموقع والمتطلبات الفنية.",
+        "processLabel": "خطوات العمل",
+        "processTitle": "عملية واضحة ومنظمة",
+        "processText": "من تقييم الموقع واختيار المواد إلى التركيب والفحص والدعم الفني.",
+        "benefitLabel": "لماذا أراسيا؟",
+        "benefitTitle": "شريكك الهندسي",
+        "benefitText": "حلول تبطين وعزل للقطاعات الصناعية والزراعية والبيئية.",
+        "ctaTitle": "اطلب استشارتك الهندسية",
+        "benefits": [
+          {
+            "icon": "♧",
+            "title": "خبرة هندسية",
+            "description": "دعم فني من التخطيط إلى التركيب."
+          },
+          {
+            "icon": "▱",
+            "title": "مواد عالية الجودة",
+            "description": "أنظمة تبطين من HDPE وLDPE وPVC وTPO."
+          },
+          {
+            "icon": "◇",
+            "title": "حماية مستدامة",
+            "description": "اختيار المواد حسب ظروف الموقع."
+          },
+          {
+            "icon": "⚙",
+            "title": "الدعم الفني",
+            "description": "إرشادات للاختيار والتركيب والصيانة."
+          }
+        ],
+        "heroBenefits": [
+          {
+            "title": "خبرة هندسية",
+            "icon": "⚙"
+          },
+          {
+            "title": "حلول متكاملة",
+            "icon": "▱"
+          },
+          {
+            "title": "دعم طويل الأمد",
+            "icon": "◇"
+          }
+        ],
+        "overviewLabel": "نظرة على خدماتنا",
+        "ctaText": "ناقش متطلبات مشروعك مع فريقنا للحصول على حل يناسب ظروف الموقع.",
+        "secondaryAction": "تواصل مع فريقنا",
+        "secondaryHref": "tel:+201005139173",
+        "ctaImage": "/media/serv-cta-banner.jpg",
+        "heroImage": "/media/services-hero.jpg"
+      },
+      "products": {
+        "title": "منتجاتنا",
+        "heading": "استكشف مجموعة منتجاتنا",
+        "intro": "مواد عالية الأداء لاحتواء المياه والعزل وحماية مشروعات البنية التحتية.",
+        "image": "/media/page-products.jpg",
+        "featureImage": "/media/prod-feature.jpg",
+        "featureText": "غشاء من البولي إيثيلين عالي الكثافة يُستخدم لاحتواء المياه وحماية البيئة وفي مشروعات البنية التحتية.",
+        "specTitle": "المواصفات الفنية",
+        "specHref": "https://arasyaplastic.com/portfolio/chair-design/",
+        "catalogMore": "منتجات إضافية",
+        "benefitTitle": "لماذا تختار منتجاتنا؟",
+        "ctaTitle": "تحتاج مساعدة في اختيار المنتج؟",
+        "specs": [
+          {
+            "title": "السماكة",
+            "description": "500–5000 ميكرومتر"
+          },
+          {
+            "title": "عرض اللفة",
+            "description": "4–7 أمتار"
+          },
+          {
+            "title": "المادة",
+            "description": "HDPE"
+          },
+          {
+            "title": "المقاومة الكيميائية",
+            "description": "عالية"
+          },
+          {
+            "title": "العمر التشغيلي المتوقع",
+            "description": "حتى 25 سنة حسب ظروف المشروع"
+          },
+          {
+            "title": "التعرّض للعوامل الجوية",
+            "description": "مقاوم للأشعة فوق البنفسجية والعوامل الجوية"
+          }
+        ],
+        "benefits": [
+          {
+            "icon": "◇",
+            "title": "المتانة",
+            "description": "أنظمة تبطين للظروف الصعبة."
+          },
+          {
+            "icon": "▱",
+            "title": "تطبيقات متعددة",
+            "description": "الزراعة والبنية التحتية والصناعة."
+          },
+          {
+            "icon": "◎",
+            "title": "المقاومة الكيميائية",
+            "description": "تتوفر أغشية للتطبيقات التي تتطلب مقاومة كيميائية."
+          },
+          {
+            "icon": "♧",
+            "title": "الحماية",
+            "description": "العزل المائي والاحتواء البيئي."
+          }
+        ],
+        "eyebrow": "منتجاتنا",
+        "catalogLabel": "كتالوج المنتجات",
+        "featureLabel": "المنتج المميز",
+        "benefitLabel": "المزايا الفنية",
+        "ctaText": "يساعدك فريقنا الفني في اختيار المواد حسب متطلبات مشروعك.",
+        "ctaImage": "/media/prod-cta-banner.jpg",
+        "heroBenefits": [
+          {
+            "title": "جودة المواد",
+            "icon": "▱"
+          },
+          {
+            "title": "حماية طويلة الأمد",
+            "icon": "◇"
+          },
+          {
+            "title": "دعم فني",
+            "icon": "♧"
+          }
+        ],
+        "backToCatalog": "العودة إلى الكتالوج",
+        "companySource": "المنتج على موقع الشركة",
+        "catalogFilter": "تصفية الكتالوج",
+        "catalogAll": "كل المنتجات",
+        "catalogGroups": [
+          {
+            "key": "membranes",
+            "icon": "▱",
+            "title": "أغشية العزل"
+          },
+          {
+            "key": "textiles",
+            "icon": "▦",
+            "title": "المنسوجات الأرضية"
+          },
+          {
+            "key": "accessories",
+            "icon": "◎",
+            "title": "الملحقات"
+          },
+          {
+            "key": "protection",
+            "icon": "◇",
+            "title": "أنظمة الحماية"
+          }
+        ],
+        "secondaryAction": "تحدث مع فريقنا",
+        "secondaryHref": "tel:+201005139173",
+        "heroImage": "/media/products-hero.jpg"
+      },
+      "projects": {
+        "title": "مشروعاتنا",
+        "heading": "استكشف تطبيقاتنا",
+        "intro": "تطبيقات التبطين والعزل المائي في تخزين المياه والزراعة والصناعة والبنية التحتية.",
+        "image": "/media/page-projects.jpg",
+        "featureImage": "/media/company-application-water.jpg",
+        "featureText": "",
+        "galleryTitle": "استكشف تطبيقات التبطين",
+        "sectorTitle": "خبرتنا عبر القطاعات الرئيسية",
+        "ctaTitle": "هل عندك مشروع مشابه؟",
+        "gallery": [
+          {
+            "title": "لحام ألواح الجيوممبرين",
+            "image": "/media/company-welding.jpg",
+            "sector": "industry"
+          },
+          {
+            "title": "أحواض احتواء المياه",
+            "image": "/media/company-application-water.jpg",
+            "sector": "agriculture"
+          },
+          {
+            "title": "أعمال احتواء مياه الصرف",
+            "image": "/media/company-application-wastewater.jpg",
+            "sector": "waste management"
+          },
+          {
+            "title": "تبطين البنية التحتية للطرق",
+            "image": "/media/company-application-roads.jpg",
+            "sector": "infrastructure"
+          },
+          {
+            "title": "تبطين القنوات المائية",
+            "image": "/media/company-application-canal.jpg",
+            "sector": "infrastructure"
+          }
+        ],
+        "sectors": [
+          {
+            "title": "خزانات المياه",
+            "description": "تبطين البرك وخزانات حفظ المياه الاستراتيجية.",
+            "image": "/media/company-application-water.jpg",
+            "icon": "water",
+            "href": "/projects?lang=ar"
+          },
+          {
+            "title": "إدارة النفايات",
+            "description": "تبطين مدافن النفايات وبرك الترشيح وعزل التربة.",
+            "image": "/media/company-application-wastewater.jpg",
+            "icon": "recycle",
+            "href": "/projects?lang=ar"
+          },
+          {
+            "title": "القطاع الزراعي",
+            "description": "برك الري وأحواض التخزين وأنظمة التبطين الزراعية.",
+            "image": "/media/company-application-aquaculture.jpg",
+            "icon": "leaf",
+            "href": "/projects?lang=ar"
+          },
+          {
+            "title": "المنشآت الصناعية",
+            "description": "حلول العزل للمنشآت الكيميائية ومياه العمليات الصناعية.",
+            "image": "/media/company-application-industrial.jpg",
+            "icon": "factory",
+            "href": "/projects?lang=ar"
+          }
+        ],
+        "eyebrow": "مشروعاتنا",
+        "featureLabel": "تطبيق مختار",
+        "featureTitle": "تبطين خزانات المياه",
+        "featureScope": "التطبيق",
+        "featureOutcome": "الاستخدامات",
+        "featureDetails": "تبطين خزانات المياه والقنوات والأحواض بأغشية البولي إيثيلين عالي الكثافة.",
+        "featureBenefits": "خزانات المياه • الأحواض الزراعية • تبطين القنوات",
+        "galleryLabel": "صور التطبيقات",
+        "sectorLabel": "التطبيقات حسب القطاع",
+        "allSectors": "كل المشروعات",
+        "ctaText": "شارك متطلبات مشروعك لنساعدك في اختيار نظام التبطين المناسب.",
+        "galleryAction": "عرض كل الصور",
+        "galleryClose": "إغلاق الصورة",
+        "sectorAction": "عرض التطبيقات",
+        "navigationSectors": [
+          {
+            "key": "water",
+            "title": "خزانات المياه",
+            "icon": "water"
+          },
+          {
+            "key": "waste",
+            "title": "إدارة المخلفات",
+            "icon": "recycle"
+          },
+          {
+            "key": "farm",
+            "title": "الزراعة",
+            "icon": "leaf"
+          },
+          {
+            "key": "industry",
+            "title": "المنشآت الصناعية",
+            "icon": "factory"
+          },
+          {
+            "key": "infrastructure",
+            "title": "البنية التحتية",
+            "icon": "infrastructure"
+          }
+        ],
+        "previewLabel": "تكبير صورة التطبيق البارز",
+        "heroImage": "/media/projects-hero.jpg"
+      },
+      "contact": {
+        "title": "اتصل بنا",
+        "heading": "أرسل استفسار مشروعك",
+        "intro": "هل لديك مشروع أو استفسار؟ فريقنا الهندسي جاهز لتقديم الحل الهندسي المناسب لمشروعك.",
+        "image": "/media/contact-hero.jpg",
+        "officeTitle": "موقع المكتب",
+        "address": "15 شارع مصطفى رفعت، ميدان 1138، مصر الجديدة، القاهرة، مصر",
+        "map": "https://www.google.com/maps/search/?api=1&query=15%20Mostafa%20Refaat%20Street%2C%20Square%201138%2C%20Heliopolis%2C%20Cairo%2C%20Egypt",
+        "eyebrow": "تواصل معنا",
+        "formLabel": "نموذج الاستفسار",
+        "formText": "املأ النموذج أدناه بتفاصيل مشروعك، وسيتواصل معك فريقنا الهندسي بحل مخصص.",
+        "officeLabel": "مكتبنا",
+        "mapAction": "افتح الخريطة",
+        "supportTitle": "هل تحتاج دعماً فورياً؟",
+        "supportText": "تواصل مع فريقنا الهندسي للحصول على مساعدة سريعة وإرشادات فنية.",
+        "supportAction": "تواصل معنا الآن",
+        "supportImage": "/media/contact-support-banner.jpg",
+        "methods": [
+          {
+            "icon": "☎",
+            "title": "اتصل بنا",
+            "description": "تحدث مباشرة مع فريقنا الهندسي.",
+            "label": "+20 100 513 9173",
+            "href": "tel:+201005139173"
+          },
+          {
+            "icon": "✉",
+            "title": "راسلنا",
+            "description": "أرسل استفسارك وسنعاود الاتصال بك سريعاً.",
+            "label": "info@arasyaplastic.com",
+            "href": "mailto:info@arasyaplastic.com"
+          },
+          {
+            "icon": "⌖",
+            "title": "تفضل بزيارتنا",
+            "description": "عنوان مكتبنا في مصر الجديدة، القاهرة.",
+            "label": "القاهرة، مصر",
+            "href": "https://www.google.com/maps/search/?api=1&query=15%20Mostafa%20Refaat%20Street%2C%20Square%201138%2C%20Heliopolis%2C%20Cairo%2C%20Egypt"
+          }
+        ],
+        "company": "الشركة",
+        "projectType": "نوع المشروع",
+        "projectDetails": "أخبرنا عن مشروعك",
+        "detailsHint": "مثل نطاق المشروع والمساحة والمواد والجدول الزمني",
+        "sendInquiry": "أرسل الطلب",
+        "supportIcon": "☎",
+        "officeCity": "القاهرة، مصر",
+        "officeContactTitle": "أرقام الهاتف",
+        "officeContactText": "+20 100 513 9173\n+20 2 226 799 15\n+20 2 226 799 16",
+        "heroImage": "/media/contact-hero.jpg",
+        "ctaImage": "/media/contact-support-banner.jpg"
+      },
+      "about": {
+        "title": "عن الشركة",
+        "heading": "حماية المشروعات والحفاظ على قيمتها",
+        "intro": "تتخصص أراسيا في تصنيع وتوريد وتركيب أغشية التبطين وأنظمة العزل.",
+        "image": "/media/about.jpg",
+        "overviewLabel": "نبذة عن الشركة",
+        "featureImage": "/media/about.jpg",
+        "featureText": "تأسست أراسيا بلاستيك عام ٢٠٠٢. تغطي حلولها خزانات المياه ومزارع الأسماك والقنوات والمنشآت الصناعية وأعمال البنية التحتية.",
+        "sourceHref": "https://arasyaplastic.com/about/",
+        "sourceLabel": "عن الشركة على موقع أراسيا",
+        "blocks": [
+          {
+            "title": "مواد التبطين",
+            "description": "أغشية بولي إيثيلين ومنسوجات أرضية وملحقات تثبيت لاحتواء المياه والعزل المائي.",
+            "image": "/media/company-hdpe.jpg",
+            "href": "/products?lang=ar"
+          },
+          {
+            "title": "التوريد والتركيب",
+            "description": "توريد وتركيب ولحام لمشروعات الزراعة والصناعة والبيئة والبنية التحتية.",
+            "image": "/media/gallery-field.jpg",
+            "href": "/services?lang=ar"
+          },
+          {
+            "title": "الجودة والدعم الفني",
+            "description": "اختيار المواد وإرشادات التركيب وفق ظروف الموقع والتعرّض ومتطلبات الأداء.",
+            "image": "/media/company-geotextile.jpg",
+            "href": "/technical-specifications?lang=ar"
+          }
+        ]
+      },
+      "articles": {
+        "title": "المقالات",
+        "heading": "أخبار وأدلة",
+        "intro": "مقالات عن أنظمة العزل والتبطين.",
+        "image": "/media/page-services.jpg",
+        "backToArticles": "العودة إلى المقالات",
+        "emptyText": "ستظهر المقالات هنا عند إضافتها."
+      },
+      "applications": {
+        "title": "التطبيقات",
+        "heading": "تطبيقات أنظمة التبطين والعزل",
+        "intro": "استكشف استخدامات أغشية التبطين والمنسوجات الأرضية في إدارة المياه والصناعة والبنية التحتية.",
+        "image": "/media/page-projects.jpg",
+        "sourceHref": "https://arasyaplastic.com/applications/",
+        "sourceLabel": "المصدر على موقع الشركة",
+        "blocks": [
+          {
+            "title": "خزانات المياه",
+            "description": "تساعد أغشية HDPE وLDPE في تقليل التسرب من الخزانات والأحواض.",
+            "image": "/media/company-application-water.jpg",
+            "href": "/products/hdpe-geomembrane?lang=ar"
+          },
+          {
+            "title": "مزارع الأسماك",
+            "description": "تساعد أغشية التبطين على احتواء المياه والحد من التسرب في أحواض الاستزراع السمكي.",
+            "image": "/media/company-application-aquaculture.jpg",
+            "href": "/products/ldpe-geomembrane?lang=ar"
+          },
+          {
+            "title": "تبطين القنوات",
+            "description": "تقلّل الأغشية التسرب وتآكل التربة في قنوات الري وتوزيع المياه.",
+            "image": "/media/company-application-canal.jpg",
+            "href": "/products/hdpe-geomembrane?lang=ar"
+          },
+          {
+            "title": "البحيرات الصناعية وتنسيق المواقع",
+            "description": "تساعد الأغشية المرنة على احتواء المياه في الأحواض والأسطح ذات الأشكال المتنوعة.",
+            "image": "/media/company-application-lakes.jpg",
+            "href": "/products/ldpe-geomembrane?lang=ar"
+          },
+          {
+            "title": "الخزانات والمنشآت الخرسانية",
+            "description": "تضيف الأغشية طبقة عزل مائي، وتثبّت الملحقات الغشاء على الخرسانة.",
+            "image": "/media/company-application-tanks.jpg",
+            "href": "/products/polylock?lang=ar"
+          },
+          {
+            "title": "أحواض مياه الصرف",
+            "description": "يُختار غشاء الاحتواء وفق نوع السائل والتعرض المتوقع للمواد الكيميائية.",
+            "image": "/media/company-application-wastewater.jpg",
+            "href": "/products/hdpe-geomembrane?lang=ar"
+          },
+          {
+            "title": "الاحتواء الصناعي",
+            "description": "يُختار الغشاء حسب نوع السائل والتعرض للمواد الكيميائية.",
+            "image": "/media/company-application-industrial.jpg",
+            "href": "/products/hdpe-geomembrane?lang=ar"
+          },
+          {
+            "title": "الطرق والبنية التحتية",
+            "description": "تساعد المنسوجات والشبكات الأرضية على فصل طبقات التربة وتوزيع الأحمال وتدعيم طبقات أساس الطرق.",
+            "image": "/media/company-application-roads.jpg",
+            "href": "/products/geogrid?lang=ar"
+          },
+          {
+            "title": "الأنفاق والأساسات",
+            "description": "تساعد أغشية العزل المائي على حماية المنشآت المدفونة من المياه ورطوبة التربة.",
+            "image": "/media/company-application-underground.jpg",
+            "href": "/products/pvc-membrane?lang=ar"
+          }
+        ]
+      },
+      "technical-specifications": {
+        "title": "المواصفات الفنية",
+        "heading": "المواصفات الفنية",
+        "intro": "دليل هندسي من أراسيا بلاستيك.",
+        "image": "/media/page-products.jpg",
+        "sourceHref": "https://arasyaplastic.com/technical-specifications/",
+        "sourceLabel": "المصدر على موقع الشركة",
+        "blocks": [
+          {
+            "title": "سماكة أغشية البولي إيثيلين",
+            "description": "٥٠٠–٥٠٠٠ ميكرون",
+            "image": "/media/membrane.jpg",
+            "href": ""
+          },
+          {
+            "title": "عرض لفة الغشاء",
+            "description": "٤–٧ أمتار",
+            "image": "",
+            "href": ""
+          },
+          {
+            "title": "الوزن السطحي للمنسوجات الأرضية",
+            "description": "٥٠–١٠٠٠ غرام/م²",
+            "image": "/media/fabric.jpg",
+            "href": ""
+          }
+        ]
+      },
+      "how-to-choose-the-right-product": {
+        "title": "دليل اختيار المنتج",
+        "heading": "دليل اختيار المنتج",
+        "intro": "دليل هندسي من أراسيا بلاستيك.",
+        "image": "/media/page-services.jpg",
+        "sourceHref": "https://arasyaplastic.com/how-to-choose-the-right-product/",
+        "sourceLabel": "المصدر على موقع الشركة",
+        "blocks": [
+          {
+            "title": "حدّد الاستخدام",
+            "description": "ابدأ بتحديد الحاجة إلى الاحتواء أو العزل أو التصريف أو التدعيم.",
+            "image": "",
+            "href": ""
+          },
+          {
+            "title": "راجع ظروف الموقع",
+            "description": "راعِ التربة والتعرض للمياه والمواد الكيميائية قبل اختيار المادة.",
+            "image": "",
+            "href": ""
+          },
+          {
+            "title": "أكّد متطلبات التركيب",
+            "description": "راجع سماكة الغشاء وطبقات الحماية وطريقة التركيب مع الفريق الهندسي.",
+            "image": "",
+            "href": ""
+          }
+        ]
+      }
+    },
+    "homeProof": {
+      "video": "https://www.youtube.com/watch?v=FyS_zcvmUr4",
+      "title": "تميز هندسي يمكنك الوثوق به",
+      "kicker": "لماذا تختار أراسيا",
+      "projectAction": "كل التطبيقات",
+      "facts": [
+        {
+          "icon": "▤",
+          "value": "2002",
+          "title": "سنة التأسيس"
+        },
+        {
+          "icon": "◇",
+          "value": "HDPE",
+          "title": "أغشية العزل"
+        },
+        {
+          "icon": "▱",
+          "value": "PVC",
+          "title": "أنظمة التبطين"
+        },
+        {
+          "icon": "⌖",
+          "value": "القاهرة",
+          "title": "مكتب الشركة"
+        }
+      ],
+      "reasons": [
+        {
+          "title": "خبرة مثبتة",
+          "description": "سنوات من المشاريع الناجحة في جميع أنحاء المنطقة."
+        },
+        {
+          "title": "مواد معتمدة",
+          "description": "معايير جودة واختبارات دولية معتمدة."
+        },
+        {
+          "title": "دعم موثوق",
+          "description": "من الاستشارة الهندسية حتى الصيانة طويلة الأجل."
+        },
+        {
+          "title": "حلول مستدامة",
+          "description": "متينة وآمنة وصديقة للبيئة."
+        }
+      ],
+      "aboutFeatures": [
+        {
+          "title": "شريك هندسي موثوق",
+          "icon": "✓"
+        },
+        {
+          "title": "مواد عالية الجودة",
+          "icon": "✓"
+        },
+        {
+          "title": "دعم متكامل للمشروع",
+          "icon": "✓"
+        },
+        {
+          "title": "متانة طويلة الأجل",
+          "icon": "✓"
+        }
+      ],
+      "processSubtitle": "من الاستشارة إلى التسليم",
+      "aboutSummary": "تقدم أراسيا للهندسة البلاستيكية حلولاً هندسية متكاملة لأنظمة العزل المائي والجيوممبرين، جامعة بين المواد عالية الجودة، الخبرة الفنية، والدعم طويل الأجل لضمان استدامة وسلامة مشاريعكم.",
+      "projectCaption": "احتواء المياه",
+      "customerTitle": "عملاؤنا",
+      "customers": [
+        {
+          "title": "أوراسكوم للإنشاءات",
+          "image": "/media/customer-2.jpg"
+        },
+        {
+          "title": "حديد عز",
+          "image": "/media/customer-9.jpg"
+        },
+        {
+          "title": "مترو القاهرة",
+          "image": "/media/customer-10.jpg"
+        },
+        {
+          "title": "سيتي ستار",
+          "image": "/media/customer-8.jpg"
+        },
+        {
+          "title": "بالم هيلز",
+          "image": "/media/customer-4.jpg"
+        }
+      ],
+      "projectPreviews": [
+        {
+          "title": "أعمال احتواء مياه الصرف",
+          "image": "/media/company-application-wastewater.jpg"
+        },
+        {
+          "title": "تبطين القنوات المائية",
+          "image": "/media/company-application-canal.jpg"
+        },
+        {
+          "title": "لحام ألواح الجيوممبرين",
+          "image": "/media/company-welding.jpg"
+        }
+      ]
+    },
+    "chrome": {
+      "brandTitle": "أراسيا بلاستيك",
+      "brandSubtitle": "الهندسية",
+      "footerIntro": "حلول هندسية متكاملة لأغشية العزل المائي وأنظمة البلاستيك عبر مجموعة واسعة من المشاريع.",
+      "footerServices": "خدماتنا",
+      "footerProducts": "حلولنا"
+    },
+    "socialLinks": [
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/company/arasya-plastic",
+        "icon": "in"
+      },
+      {
+        "title": "Facebook",
+        "href": "https://www.facebook.com/arasya-plastic",
+        "icon": "f"
+      },
+      {
+        "title": "YouTube",
+        "href": "https://www.youtube.com/@arasyaplastic",
+        "icon": "▶"
+      }
+    ]
+  }
+}
